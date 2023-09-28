@@ -12,3 +12,6 @@ This mod also disables /msg, /w, and /me, /say, and other similar commands in or
 
 # Usage
 You can use this mod for whatever you want. Take it in its entirety, modify it, publish it... I don't mind! If you do, however, please let me know, purely because I am interested :)
+
+# Mod Pages
+This mod is for Minecraft version 1.19.2, and can be found on either [Modrinth](https://modrinth.com/mod/antichat) (preferred), or [CurseForge](https://www.curseforge.com/minecraft/mc-mods/antichat)
