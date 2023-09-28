@@ -33,8 +33,8 @@ public class ChatEventListener {
         }
       }
     } catch (Exception e) {
-      // we don't want the error to crash the game. who cares if a message here and
-      // there happens to get through?
+      // we don't want the error to crash the game. who cares if a message
+      // happens to get there here and there?
       System.out.println(e);
     }
   }
